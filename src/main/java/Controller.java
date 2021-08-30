@@ -1,5 +1,3 @@
-package com.company.hwork2;
-
 import java.util.Scanner;
 
 public class Controller {

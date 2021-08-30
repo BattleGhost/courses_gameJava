@@ -1,5 +1,3 @@
-package com.company.hwork2;
-
 public class View {
 
     public static final String INPUT_INT_MESSAGE = "Try to guess number: ";
