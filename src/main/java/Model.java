@@ -35,7 +35,7 @@ public class Model {
 
     // Work methods
     public void resetGuessedNumber() {
-        this.guessedNumber = (new Random()).nextInt(MAX - MIN) + MIN;
+        this.guessedNumber = (new Random()).nextInt(MAX - MIN- 1) + MIN + 1;
         this.guessTries = 0;
     }
 
